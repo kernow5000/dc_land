@@ -1,0 +1,28 @@
+
+<*> music example working but selector is broken :D
+<*> music example added... hmm, wont work on old release
+
+<*> vmu_icon_clear() added.. 
+<*> tile.c working? it needed pad stuff and v_clr...
+
+<*> added s3m_stop(), sound_stop() to sound.c
+<*> thought about a good way of doing the pad, for four
+<*> simple tidy ups, v_drawstring_ctr, added comments
+
+
+2/11/02 DC_land 0.1 released
+
+
+<*> DC_land 0.1 considered release material
+
+<*> volsweep working better, but still broke
+
+<*> tile engine implemented into DC_land, and example
+
+<*> YGB IS FIXED
+
+<*> library is working ok, need to add tile engine
+
+<*>examples are ok , volsweep and tile example are broken, as volsweep is the
+	    most hardcore DC_land/libdream example we had next to pong.
+
